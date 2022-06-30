@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @seen-nguyen
+- 👀 I’m interested in functional and concurrent programming.
+- 🌱 I’m currently learning scala with akka framework.
